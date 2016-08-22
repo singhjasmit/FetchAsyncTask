@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fetch Async</string>
+    <string name="action_settings">Settings</string>
+    <string name="stock_return_info">Stock Information</string>
+    <string name="stock_info_title">Enter stock symbol</string>
+    <string name="fetch_stock_info_btn">Fetch Now</string>
+    <string name="fetch_stock_hint">Enter symbols</string>
+
+</resources>
